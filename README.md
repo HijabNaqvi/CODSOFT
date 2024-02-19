@@ -1,2 +1,2 @@
 # CODSOFT
-Projects done during my CodSoft Internship
+Collection of projects completed during my CodSoft Internship
